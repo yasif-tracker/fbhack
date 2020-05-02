@@ -67,9 +67,9 @@ def welcome():
         +=========================================+
         |..........   Facebook Crack   ...........|
         +-----------------------------------------+
-        |            #Author: Ha3MrX              | 
+        |            #Author: Yasif             | 
         |	       Version 1.0                |
- 	|   https://www.youtube.com/c/HA-MRX      |
+ 	|   https://www.youtube.com/c/YasifTech     |
         +=========================================+
         |..........  Facebook Cracker  ...........|
         +-----------------------------------------+\n\n
